@@ -18,3 +18,12 @@ div.white {
 div.black {
     background: black;
 }
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 6px;
+}
