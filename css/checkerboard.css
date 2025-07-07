@@ -5,9 +5,14 @@
 }
 
 table {
-    border: 1px solid black;
+    width: unset;
+    border: 1px solid black ;
     margin: 6px;
     border-spacing: none;
+}
+
+td {
+    padding: 0;
 }
 
 td.black,
