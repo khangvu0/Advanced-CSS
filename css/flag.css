@@ -25,20 +25,11 @@ td.white {
 
 th {
     width: 400px;
+    padding: 0;
 }
 
 th img {
     width: 500px;
-}
-
-#img-flag2 {
-    display: inline-block;
-    width: 500px;
-}
-
-#table1 {
-    display: inline-block;
-    width: 700px;
 }
 
 tr {

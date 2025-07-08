@@ -3,66 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="../css/materialize.min.css" media="screen,projection" />
     <link rel="stylesheet" href="../css/flag.css">
     <title>American Flag</title>
 </head>
-<body>
-    <h2>Flag using one table with rowspan and colspan</h2>
-   <table>
-        <tr>
-            <th rowspan="7"><img src="../images/stars.png" alt="Stars on blue blackground for American flag." /></th>
-            <td class="red"></td>
-        </tr>
-        <tr>
-            <td class="white"></td>
-        </tr>
-        <tr>
-            <td class="red"></td>
-        </tr>
-        <tr>
-            <td class="white"></td>
-        </tr>
-        <tr>
-            <td class="red"></td>
-        </tr>
-        <tr>
-            <td class="white"></td>
-        </tr>
-        <tr>
-            <td class="red"></td>
-        </tr>
-        <tr>
-            <td class="white" colspan="2"></td>
-        </tr>
-        <tr>
-            <td class="red" colspan="2"></td>
-        </tr>
-        <tr>
-            <td class="white" colspan="2"></td>
-        </tr>
-        <tr>
-            <td class="red" colspan="2"></td>
-        </tr>
-        <tr>
-            <td class="white" colspan="2"></td>
-        </tr>
-        <tr>
-            <td class="red" colspan="2"></td>
-        </tr>
-    </table>
 
-    <h2>Flag using two separate tables</h2>
-    <img src="../images/stars.png" alt="Stars on blue blackground for American flag." id="img-flag2" />
-    <table id="table1">
-        <tbody>
-            <tr><td class="red"></td></tr>
+<body>
+     <header>
+        <div class="navbar-fixed">
+            <nav>
+                <div class="nav-wrapper">
+                    <a href="../index.html" class="brand-logo">Khang Vu</a>
+                    <ul id="nav-mobile" class="right hide-on-med-and-down">
+                        <li><a href="../Checkerboard/checkerboard.html">Checkerboard</a></li>
+                        <li><a href="#">Flag</a></li>
+                        <li><a href="../Product-Grid/productGrid.html">Product Grid</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <h2>Flag using one table with rowspan and colspan</h2>
+        <table>
+            <tr>
+                <th rowspan="7"><img src="../images/stars.png" alt="Stars on blue blackground for American flag." /></th>
+                <td class="red"></td>
+            </tr>
             <tr><td class="white"></td></tr>
             <tr><td class="red"></td></tr>
             <tr><td class="white"></td></tr>
             <tr><td class="red"></td></tr>
             <tr><td class="white"></td></tr>
             <tr><td class="red"></td></tr>
-        </tbody>
-    </table>
+            
+            <tr><td class="white" colspan="2"></td></tr>
+            <tr><td class="red" colspan="2"></td></tr>
+            <tr><td class="white" colspan="2"></td></tr>
+            <tr><td class="red" colspan="2"></td></tr>
+            <tr><td class="white" colspan="2"></td></tr>
+            <tr><td class="red" colspan="2"></td></tr>
+        </table>
+    </main>
 </body>
 </html>
