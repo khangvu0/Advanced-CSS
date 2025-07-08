@@ -4,10 +4,7 @@ This is my submission for the `Guided Inquiry - Advanced CSS (week 4)` assignmen
 
 ## Why I deserve a 4
 
-I deserve a 4 because I have met all project requirements and tackled challenges in multiple ways. I have implemented 3 different methods in creating the checkerboard, a table full of divs, just using a table, and just using divs. For my methodology on the flag challenge, I challenged myself to approach the flag using one table, self-teaching myself rowspan and colspan. I am most proud of myself for the way I completed the product grid challenge. I faced many stumps and utilized the inspect tools such as cursor select element and the flexbox editor to troubleshoot. I have also implemented Materialize, creating a navbar for each challenge and even figuring out how to troubleshoot the new problems created from adding the Materialize CSS file in my .html files. 
-
-I went above and beyond in self-learning, especially in regards to JavaScript. Using best coding practices in declaring variables at the top of the page and understanding the how and why in my JavaScript functions.
-I have used problem solving in the entirety of this assignment and have learned something new along each step of the way. Over the course of this assignment, I have become more comfortable and adept in HTML, CSS and JavaScript.
+I deserve a 4 because I have met all project requirements and tackled challenges in multiple ways. I have implemented 3 different methods in creating the checkerboard, a table full of divs, just using a table, and just using divs. For my methodology on the flag challenge, I challenged myself to approach the flag using one table, self-teaching myself rowspan and colspan. I am most proud of myself for the way I completed the product grid challenge. I faced many stumps and utilized the inspect tools such as cursor select element and the flexbox editor to troubleshoot. I have also implemented Materialize, creating a navbar for each challenge and even figuring out how to troubleshoot the new problems created from adding the Materialize CSS file in my .html files. I have used problem solving in the entirety of this assignment and have learned something new along each step of the way. Over the course of this assignment, I have become more comfortable with advanced CSS techniques.
 
 ## What's in this project?
 
